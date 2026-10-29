@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 #section-solution{
     display: flex;
-    background-color: black;
+    background-color: rgb(211, 7, 7);
     width: 100%;
     height: 100vh;
     img{
